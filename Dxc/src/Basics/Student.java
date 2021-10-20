@@ -1,9 +1,9 @@
 package Basics;
 
 public class Student {
-	String name;
 	int age;
-	static String college_name="IIT";
+	String name;
+	static String COLLEGE_NAME="IIT";
 	public String getName() {
 		return name;
 	}

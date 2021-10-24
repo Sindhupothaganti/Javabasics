@@ -7,7 +7,7 @@ public class ExceptionHandling {
 	        int data;  
 	        try  
 	        {  
-	        data=i/j; //may throw exception   
+	        data=i/j; 
 	        }  
 	            // handling the exception  
 	        catch(Exception e)  
